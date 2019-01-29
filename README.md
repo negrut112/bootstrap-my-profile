@@ -32,7 +32,7 @@ You can check my work right here: <a href="https://negrut112.github.io/bootstrap
 &lt;title&gt;About Me - Practice&lt;/title&gt;<br>
 &lt;/head&gt;</code></pre>
 
-<p>Inside the &lt;body&gt; tags happens all the action, starting with a container wrapping all elements. I used default bootstrap classes for differents html elements that will change their appearance.</p>
+<p>Inside the &lt;body&gt; tags happens all the action, starting with a <div> container wrapping all elements. I used default bootstrap classes for differents html elements that will change their appearance.</p>
 
 <pre><code>&lt;div class=“container”&gt;<br>
 &lt;div class=“row”&gt;<br>
@@ -40,8 +40,8 @@ You can check my work right here: <a href="https://negrut112.github.io/bootstrap
 &lt;div class=“col-xs-6”&gt;<br>
 &lt;div class=“header”&gt;&lt;h2&gt;ALIN C. NEGRUȚ&lt;/h2&gt;<br>
 &lt;h4&gt;Manufacturing Engineer, World Traveller  and Amateur Photographer, Romania.&lt;/h4&gt;<br>
-&lt;/div&gt;<code></pre>
-<pre><code>  &lt;div class=&quot;well&quot;&gt; 
+&lt;/div&gt;
+&lt;div class=&quot;well&quot;&gt; 
     &lt;p&gt;Hello there! I’m Alin,26 years old, Production Engineer living in Romania. I'm crazy about Technology, Engineering, and Programming. I’m also interested in travel, books, quality music and bodybuilding.&lt;/p&gt;
     &lt;p&gt;For the moment I'm in position of Charge of Stamping Process at RTR Romania, while next year I will graduate &quot;Management of Manufacturing Industrial Products&quot; Master studies at &quot;Vasile Alecsandri&quot; Univerisity of Bacau.
     &lt;p&gt;I'm lookig forward to graduate the CodeBerry class for programming so I ll be able to share efficiently with you my hobbies and experiences. I would like to develope a career in IT Industry as well for the fact that I want to put some ideas in practice.&lt;/p&gt;
@@ -64,4 +64,4 @@ You can check my work right here: <a href="https://negrut112.github.io/bootstrap
 </code></pre>
 <p>&lt;/div&gt;<br>
 &lt;/div&gt;<br>
-&lt;/div&gt;</p>
+&lt;/div&gt;<code></pre>
