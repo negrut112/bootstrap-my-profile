@@ -30,7 +30,7 @@ You can check my work right here: <a href="https://negrut112.github.io/bootstrap
 &lt;meta charset=“utf-8”&gt;<br>
 &lt;meta name=“viewport” content=“width=device-width”&gt;<br>
 &lt;title&gt;About Me - Practice&lt;/title&gt;<br>
-&lt;/head&gt;</code></pre>
+&lt;/head&gt;</code></pre><br>
 
 <p>Inside the body tags happens all the action, starting with a <div> container wrapping all elements. I used default bootstrap classes for differents html elements that will change their appearance.</p>
 
