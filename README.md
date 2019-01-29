@@ -1,6 +1,7 @@
 # Bootstrap - My profile - example
 
 <p>Using Bootstrap along HTML and CSS, I made a simple My profile, web-responsive page.<br>
+    
 You can check my work right here: <a href="https://negrut112.github.io/bootstrap-my-profile/">https://negrut112.github.io/bootstrap-my-profile/</a><br>
     
 <img src="https://i.imgur.com/ttQw0Wh.jpg">
