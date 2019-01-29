@@ -32,7 +32,7 @@ You can check my work right here: <a href="https://negrut112.github.io/bootstrap
 &lt;title&gt;About Me - Practice&lt;/title&gt;<br>
 &lt;/head&gt;</code></pre>
 
-<p>Inside the &lt;body&gt; tags happens all the action, starting with a <div> container wrapping all elements. I used default bootstrap classes for differents html elements that will change their appearance.</p>
+<p>Inside the body tags happens all the action, starting with a <div> container wrapping all elements. I used default bootstrap classes for differents html elements that will change their appearance.</p>
 
 <pre><code>&lt;div class=“container”&gt;<br>
 &lt;div class=“row”&gt;<br>
@@ -58,6 +58,6 @@ You can check my work right here: <a href="https://negrut112.github.io/bootstrap
 &lt;a class=&quot;fa fa-camera-retro&quot; style=&quot;font-size:36px&quot;&gt;&lt;/a&gt;
 &lt;a class=&quot;fa fa-youtube&quot; style=&quot;font-size:36px&quot;&gt;&lt;/a&gt;
 &lt;/div&gt;
-<p>&lt;/div&gt;<br>
+&lt;/div&gt;<br>
 &lt;/div&gt;<br>
 &lt;/div&gt;</code></pre>
