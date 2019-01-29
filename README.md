@@ -42,26 +42,22 @@ You can check my work right here: <a href="https://negrut112.github.io/bootstrap
 &lt;h4&gt;Manufacturing Engineer, World Traveller  and Amateur Photographer, Romania.&lt;/h4&gt;<br>
 &lt;/div&gt;
 &lt;div class=&quot;well&quot;&gt; 
-    &lt;p&gt;Hello there! I’m Alin,26 years old, Production Engineer living in Romania. I'm crazy about Technology, Engineering, and Programming. I’m also interested in travel, books, quality music and bodybuilding.&lt;/p&gt;
-    &lt;p&gt;For the moment I'm in position of Charge of Stamping Process at RTR Romania, while next year I will graduate &quot;Management of Manufacturing Industrial Products&quot; Master studies at &quot;Vasile Alecsandri&quot; Univerisity of Bacau.
-    &lt;p&gt;I'm lookig forward to graduate the CodeBerry class for programming so I ll be able to share efficiently with you my hobbies and experiences. I would like to develope a career in IT Industry as well for the fact that I want to put some ideas in practice.&lt;/p&gt;
-  &lt;/div&gt;
-  
-  &lt;div class=&quot;alert alert-info&quot; &gt;#engineering #tehnology #programming #travelling #music #bodybuilding #photography&lt;/div&gt;
-  
-  &lt;div class=&quot;col-xs-6&quot;&gt;&lt;h4&gt;Work&lt;/h4&gt;
-    &lt;h5&gt;Charge of Stamping Process, RTR Romania&lt;/h5&gt;&lt;/div&gt;
-  &lt;div class=&quot;col-xs-6&quot;&gt;&lt;h4&gt;Education&lt;/h4&gt;
-    &lt;h5&gt;&quot;Vasile Alecsandri&quot; University of Bacau&lt;/h5&gt;&lt;/div&gt;
-  
-  &lt;div class=&quot;contact&quot; align=&quot;center&quot;&gt;
-    &lt;a class=&quot;fa fa-facebook-square&quot; style=&quot;font-size:36px&quot;&gt;&lt;/a&gt;
-    &lt;a class=&quot;fa fa-linkedin-square&quot; style=&quot;font-size:36px&quot;&gt;&lt;/a&gt;
-    &lt;a class=&quot;fa fa-instagram&quot; style=&quot;font-size:36px&quot;&gt;&lt;/a&gt;
-    &lt;a class=&quot;fa fa-camera-retro&quot; style=&quot;font-size:36px&quot;&gt;&lt;/a&gt;
-    &lt;a class=&quot;fa fa-youtube&quot; style=&quot;font-size:36px&quot;&gt;&lt;/a&gt;
-  &lt;/div&gt;
-</code></pre>
+&lt;p&gt;Hello there! I’m Alin,26 years old, Production Engineer living in Romania. I'm crazy about Technology, Engineering, and Programming. I’m also interested in travel, books, quality music and bodybuilding.&lt;/p&gt;
+&lt;p&gt;For the moment I'm in position of Charge of Stamping Process at RTR Romania, while next year I will graduate &quot;Management of Manufacturing Industrial Products&quot; Master studies at &quot;Vasile Alecsandri&quot; Univerisity of Bacau.
+&lt;p&gt;I'm lookig forward to graduate the CodeBerry class for programming so I ll be able to share efficiently with you my hobbies and experiences. I would like to develope a career in IT Industry as well for the fact that I want to put some ideas in practice.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;alert alert-info&quot; &gt;#engineering #tehnology #programming #travelling #music #bodybuilding #photography&lt;/div&gt;
+&lt;div class=&quot;col-xs-6&quot;&gt;&lt;h4&gt;Work&lt;/h4&gt;
+&lt;h5&gt;Charge of Stamping Process, RTR Romania&lt;/h5&gt;&lt;/div&gt;
+&lt;div class=&quot;col-xs-6&quot;&gt;&lt;h4&gt;Education&lt;/h4&gt;
+&lt;h5&gt;&quot;Vasile Alecsandri&quot; University of Bacau&lt;/h5&gt;&lt;/div&gt;
+&lt;div class=&quot;contact&quot; align=&quot;center&quot;&gt;
+&lt;a class=&quot;fa fa-facebook-square&quot; style=&quot;font-size:36px&quot;&gt;&lt;/a&gt;
+&lt;a class=&quot;fa fa-linkedin-square&quot; style=&quot;font-size:36px&quot;&gt;&lt;/a&gt;
+&lt;a class=&quot;fa fa-instagram&quot; style=&quot;font-size:36px&quot;&gt;&lt;/a&gt;
+&lt;a class=&quot;fa fa-camera-retro&quot; style=&quot;font-size:36px&quot;&gt;&lt;/a&gt;
+&lt;a class=&quot;fa fa-youtube&quot; style=&quot;font-size:36px&quot;&gt;&lt;/a&gt;
+&lt;/div&gt;
 <p>&lt;/div&gt;<br>
 &lt;/div&gt;<br>
-&lt;/div&gt;<code></pre>
+&lt;/div&gt;</code></pre>
