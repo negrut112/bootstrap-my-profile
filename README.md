@@ -32,7 +32,7 @@ You can check my work right here: <a href="https://negrut112.github.io/bootstrap
 &lt;title&gt;About Me - Practice&lt;/title&gt;<br>
 &lt;/head&gt;</code></pre><br>
 
-<p>Inside the body tags happens all the action, starting with a <div> container wrapping all elements. I used default bootstrap classes for differents html elements that will change their appearance.</p>
+<p>Inside the body tags happens all the action, starting with a <i>div</i> container wrapping all elements. I used default bootstrap classes for differents html elements that will change their appearance.</p>
 
 <pre><code>&lt;div class=“container”&gt;<br>
 &lt;div class=“row”&gt;<br>
