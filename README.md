@@ -1,8 +1,12 @@
-<p>Bootstrap - My profile - example</p>
+# Bootstrap - My profile - example
+
 <p>Using Bootstrap along HTML and CSS, I made a simple My profile, web-responsive page.<br>
 You can check my work right here: <a href="https://negrut112.github.io/bootstrap-my-profile/">https://negrut112.github.io/bootstrap-my-profile/</a><br>
-<a href="https://i.imgur.com/ttQw0Wh.jpg">https://i.imgur.com/ttQw0Wh.jpg</a></p>
-<p>CSS</p>
+    
+<img src="https://i.imgur.com/ttQw0Wh.jpg">
+
+## CSS
+
 <p>To make the page web-responsive I added next media querie:</p>
 <pre><code>@media only screen and (max-width: 768px) {
 /* For mobile phones: */
@@ -11,7 +15,9 @@ You can check my work right here: <a href="https://negrut112.github.io/bootstrap
 }
 </code></pre>
 <p>}</p>
-<p>HTML</p>
+
+## HTML
+
 <p>Inside &lt;head&gt; tags I inserted the Bootstrap library wich is a very useful tool, the title, setting the page to follow device witdth, character encoding and a library for icons.</p>
 <p>&lt;head&gt;<br>
 &lt;script src=&quot;<a href="https://code.jquery.com/jquery.min.js">https://code.jquery.com/jquery.min.js</a>“&gt;&lt;/script&gt;<br>
