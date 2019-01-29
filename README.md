@@ -14,13 +14,15 @@ You can check my work right here: <a href="https://negrut112.github.io/bootstrap
 [class*=&quot;col-&quot;] {
     width: 100%;
 }
-</code></pre>
 <p>}</p>
+</code></pre>
+
 
 ## HTML
 
 <p>Inside &lt;head&gt; tags I inserted the Bootstrap library wich is a very useful tool, the title, setting the page to follow device witdth, character encoding and a library for icons.</p>
-<p>&lt;head&gt;<br>
+
+<pre><code>&lt;head&gt;<br>
 &lt;script src=&quot;<a href="https://code.jquery.com/jquery.min.js">https://code.jquery.com/jquery.min.js</a>“&gt;&lt;/script&gt;<br>
 &lt;link href=”<a href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css</a>&quot; rel=“stylesheet” type=“text/css” /&gt;<br>
 &lt;script src=&quot;<a href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js">https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js</a>“&gt;&lt;/script&gt;<br>
@@ -28,15 +30,17 @@ You can check my work right here: <a href="https://negrut112.github.io/bootstrap
 &lt;meta charset=“utf-8”&gt;<br>
 &lt;meta name=“viewport” content=“width=device-width”&gt;<br>
 &lt;title&gt;About Me - Practice&lt;/title&gt;<br>
-&lt;/head&gt;</p>
+&lt;/head&gt;</code></pre>
+
 <p>Inside the &lt;body&gt; tags happens all the action, starting with a container wrapping all elements. I used default bootstrap classes for differents html elements that will change their appearance.</p>
-<p>&lt;div class=“container”&gt;<br>
+
+<pre><code>&lt;div class=“container”&gt;<br>
 &lt;div class=“row”&gt;<br>
 &lt;div class=“col-xs-6”&gt;&lt;img src=&quot;<a href="https://i.imgur.com/G85poZC.jpg">https://i.imgur.com/G85poZC.jpg</a>&quot; alt=“Me at Fontana di Trevi” class=“img-responsive”&gt;&lt;/div&gt;<br>
 &lt;div class=“col-xs-6”&gt;<br>
 &lt;div class=“header”&gt;&lt;h2&gt;ALIN C. NEGRUȚ&lt;/h2&gt;<br>
 &lt;h4&gt;Manufacturing Engineer, World Traveller  and Amateur Photographer, Romania.&lt;/h4&gt;<br>
-&lt;/div&gt;</p>
+&lt;/div&gt;<code></pre>
 <pre><code>  &lt;div class=&quot;well&quot;&gt; 
     &lt;p&gt;Hello there! I’m Alin,26 years old, Production Engineer living in Romania. I'm crazy about Technology, Engineering, and Programming. I’m also interested in travel, books, quality music and bodybuilding.&lt;/p&gt;
     &lt;p&gt;For the moment I'm in position of Charge of Stamping Process at RTR Romania, while next year I will graduate &quot;Management of Manufacturing Industrial Products&quot; Master studies at &quot;Vasile Alecsandri&quot; Univerisity of Bacau.
