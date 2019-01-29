@@ -13,8 +13,8 @@ You can check my work right here: <a href="https://negrut112.github.io/bootstrap
 /* For mobile phones: */
 [class*=&quot;col-&quot;] {
     width: 100%;
+ }
 }
-<p>}</p>
 </code></pre>
 
 
